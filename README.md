@@ -24,6 +24,6 @@ That's it!
 	
 **Alloy usage**
 
-	<Module platform="android" module="de.marcelpociot.autofocus" method="createView" />
+	<View platform="android" module="de.marcelpociot.autofocus" />
 	<TextField value="No more ugly autofocus!" />
 	
