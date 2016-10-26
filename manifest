@@ -2,17 +2,17 @@
 # this is your module manifest and used by Titanium
 # during compilation, packaging, distribution, etc.
 #
-version: 1.0
-apiversion: 2
+version: 2.0
+apiversion: 3
 description: Add this view object to prevent textviews to gain focus automatically
 author: Marcel Pociot
 license: MIT
 copyright: Marcel Pociot
-
+architectures: armeabi-v7a x86
 
 # these should not be edited
 name: autofocus
 moduleid: de.marcelpociot.autofocus
 guid: 40850e9c-a09c-45ca-bed5-33c039c2f1d3
 platform: android
-minsdk: 3.2.3.GA
+minsdk: 6.0.0.GA

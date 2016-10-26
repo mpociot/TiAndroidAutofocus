@@ -59,4 +59,3 @@ public class AutofocusModule extends KrollModule
 	}
 
 }
-
